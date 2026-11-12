@@ -48,6 +48,12 @@ Thank you to the organizations and tools supporting the Layali project:
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
 [![Bryntem](https://img.shields.io/badge/Bryntem-Sponsor-2D6A4F?style=for-the-badge)](#)
 
+## Contact
+
+For inquiries, partnerships, or custom event planning support, email us at:
+
+**Orbitronsystems@gmail.com**
+
 ## About Layali
 
 Layali is a premium event-planning and hosting service for event-management vendors, venues, weddings, and celebrations. We’re here to help make planning more connected, organized, and effortless.
