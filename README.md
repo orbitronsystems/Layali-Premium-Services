@@ -39,7 +39,12 @@ Layali’s goal is simple: make it easier to go from scattered event-planning de
 
 Thank you to the organizations and tools supporting the Layali project:
 
-**PayPal · AG Matic · Zapier · Postman · Render · Bryntem**
+[![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
+[![AG Matic](https://img.shields.io/badge/AG%20Matic-Sponsor-5C4EE5?style=for-the-badge)](#)
+[![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
+[![Bryntem](https://img.shields.io/badge/Bryntem-Sponsor-2D6A4F?style=for-the-badge)](#)
 
 ## About Layali
 
