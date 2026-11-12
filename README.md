@@ -1,32 +1,42 @@
-# Layali — Plan Less. Celebrate More.
+<div align="center">
 
-**Layali helps bring the details of an event together in one place—so hosts and event professionals can spend less time chasing information and more time creating an unforgettable experience.**
+# Layali
 
-[![Explore the Layali live demo](https://img.shields.io/badge/Explore_the_Live_Demo-Visit_Layali-8A5A7B?style=for-the-badge)](https://layali-premium-events-weddings-platform.ai.studio/)
+### From weeks of event-planning hassle to a few thoughtful clicks.
 
-From the first idea to the final checklist, Layali is designed to make event planning feel simpler: gather the details you need, connect the people and information involved, and keep everything organized in a few clicks.
+**Bring your event details, people, and planning materials together—so you can focus on creating an occasion worth remembering.**
 
-## Make weeks of coordination feel easier
+[![Explore the live demo](https://img.shields.io/badge/Explore_the_Live_Demo-Visit_Layali-8A5A7B?style=for-the-badge)](https://layali-premium-events-weddings-platform.ai.studio/)
 
-Planning an event often means gathering details from many people and trying to keep them all in order. Layali aims to streamline that experience with an onboarding flow that helps you create a custom order and bring the information needed to plan your event together.
+*Plan less. Celebrate more.*
+
+</div>
+
+---
+
+Layali is a premium event-planning and hosting experience for event-management vendors, venues, and people bringing celebrations to life. Its streamlined onboarding helps you gather the information you need, create a custom order, and keep planning details organized.
+
+## A calmer way to bring it all together
+
+Planning can mean collecting details from many people and keeping everything in order. Layali is designed to make that process feel clearer and more connected.
 
 - **Collect the details that matter** — Gather event requirements and planning information in one place.
 - **Connect the dots** — Keep relevant information together so hosts, vendors, and venues can stay aligned.
 - **Create a custom order** — Shape the planning experience around the needs of your event.
 - **Organize your folders** — Keep event materials and information structured and easier to find.
-- **Spend more time on the occasion** — Reduce the back-and-forth and focus on the moments that matter.
+- **Spend more time on the occasion** — Reduce back-and-forth and focus on the moments that matter.
 
 ## Made for meaningful occasions
 
-Layali is built for people and teams bringing special events to life, including:
+Layali is designed for people and teams planning:
 
 - **Weddings** — Coordinate the details behind a day worth remembering.
-- **Parties and celebrations** — Keep plans and event information in one organized place.
-- **Corporate and private events** — Bring the requirements and people involved together.
-- **Productions and production boutiques** — Keep project details and event materials organized.
+- **Parties and celebrations** — Keep plans and event information organized.
+- **Corporate and private events** — Bring requirements and people together.
+- **Productions and production boutiques** — Keep project details and event materials in order.
 - **Venues and event-management vendors** — Support a smoother planning and onboarding experience for clients.
 
-## How Layali helps
+## How it works
 
 1. **Start with your event** and the experience you want to create.
 2. **Bring together the information** you need to plan and coordinate it.
@@ -35,29 +45,41 @@ Layali is built for people and teams bringing special events to life, including:
 
 ## Our goal
 
-Layali’s goal is simple: make it easier to go from scattered event-planning details to a clear, organized plan—without weeks of unnecessary hassle.
+Make it easier to go from scattered event-planning details to a clear, organized plan—with fewer weeks of unnecessary hassle and more time for the experience itself.
 
-## Sponsors and tools we appreciate
+## With thanks to our sponsors & partners
 
-Thank you to the organizations and tools supporting the Layali project:
+<div align="center">
 
-[![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
-[![AG Matic](https://img.shields.io/badge/AG%20Matic-Sponsor-5C4EE5?style=for-the-badge)](#)
-[![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
-[![Bryntem](https://img.shields.io/badge/Bryntem-Sponsor-2D6A4F?style=for-the-badge)](#)
+We appreciate the organizations and tools supporting the Layali project.
 
-## Contact
+[![PayPal](https://img.shields.io/badge/PAYPAL-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ "PayPal") &nbsp;
+![AG Matic](https://img.shields.io/badge/AG%20MATIC-5C4EE5?style=for-the-badge "AG Matic") &nbsp;
+[![Zapier](https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com/ "Zapier") &nbsp;
+[![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/ "Postman") &nbsp;
+[![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/ "Render") &nbsp;
+![Bryntem](https://img.shields.io/badge/BRYNTEM-2D6A4F?style=for-the-badge "Bryntem")
 
-For inquiries, partnerships, or custom event planning support, email us at:
-
-**Orbitronsystems@gmail.com**
+</div>
 
 ## About Layali
 
-Layali is a premium event-planning and hosting service for event-management vendors, venues, weddings, and celebrations. We’re here to help make planning more connected, organized, and effortless.
+Layali is a premium event-planning and hosting service for event-management vendors, venues, weddings, and celebrations. We’re here to make planning more connected, organized, and effortless.
+
+## Contact
+
+For inquiries, partnerships, or event-planning support, email [Orbitronsystems@gmail.com](mailto:Orbitronsystems@gmail.com).
 
 ---
 
-*Have questions or want to learn more? Open an issue in this repository or contact the Layali team.*
+<div align="center">
+
+### Ready to make planning feel simpler?
+
+[![Try the Layali demo](https://img.shields.io/badge/TRY_THE_LIVE_DEMO-8A5A7B?style=for-the-badge)](https://layali-premium-events-weddings-platform.ai.studio/)
+[![Email Layali](https://img.shields.io/badge/CONTACT_LAYALI-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Orbitronsystems@gmail.com)
+[![View the GitHub repository](https://img.shields.io/badge/VIEW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orbitronsystems/Layali-Premium-Services)
+
+**Layali — Plan less. Celebrate more.**
+
+</div>
