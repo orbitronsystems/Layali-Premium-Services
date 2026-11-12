@@ -2,6 +2,8 @@
 
 **Layali helps bring the details of an event together in one place—so hosts and event professionals can spend less time chasing information and more time creating an unforgettable experience.**
 
+[![Explore the Layali live demo](https://img.shields.io/badge/Explore_the_Live_Demo-Visit_Layali-8A5A7B?style=for-the-badge)](https://layali-premium-events-weddings-platform.ai.studio/)
+
 From the first idea to the final checklist, Layali is designed to make event planning feel simpler: gather the details you need, connect the people and information involved, and keep everything organized in a few clicks.
 
 ## Make weeks of coordination feel easier
